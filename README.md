@@ -1,6 +1,6 @@
 # Hi, I'm MyCode83
 I'm learning Python, Go & cybersecurity basics.
-# Oficial Links
+# Official Links
 - ![github favicon](https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://github.com&size=16) **[Github](https://github.com/MyCode83)**
 - ![gitlab favicon](https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://gitlab.com&size=16) **[Gitlab](https://gitlab.com/MyCode83)**
 - ![youtube favicon](https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://youtube.com&size=16) **[Youtube](https://youtube.com/@MyCode83)**
